@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 
 ## ⚡ Tec Stacks
 ## 😄 Find me
-## 🚀 Blog Posts
-## 💬 Ask me about
