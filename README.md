@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ⚡ Tec Stacks
-## 🌎 Find me
+## 😄 Find me
 ## 🚀 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-## 🌎 Visitors
+## 💬 Ask me about
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
