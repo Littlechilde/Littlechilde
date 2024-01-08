@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-## 📫 Platforms
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## ⚡ Tec Stacks
-to be or not to be,that is a problem
 ## 😄 Find me
 meybe you not need find me
